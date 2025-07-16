@@ -1,6 +1,5 @@
-public class Demo{
+public class demo{
     public static void main(String[] args) {
-        sout
-        as zmx cnmz xc
+       System.out.println("Avo avo Saanps !!!!");
     }
 }
